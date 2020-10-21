@@ -1,0 +1,14 @@
+body{
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 50px;
+    font-style: oblique;
+    text-align: center;
+    color: aqua;
+   
+}
+.s1{
+    padding: 100px;
+    margin: 100px,auto;
+      background-color:maroon;
+}
+    
